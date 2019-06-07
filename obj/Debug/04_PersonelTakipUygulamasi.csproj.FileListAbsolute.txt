@@ -1,0 +1,10 @@
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\bin\Debug\04_PersonelTakipUygulamasi.exe.config
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\bin\Debug\04_PersonelTakipUygulamasi.exe
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\bin\Debug\04_PersonelTakipUygulamasi.pdb
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\_04_PersonelTakipUygulamasi.FormPersonel.resources
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\_04_PersonelTakipUygulamasi.Properties.Resources.resources
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\04_PersonelTakipUygulamasi.csproj.GenerateResource.cache
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\04_PersonelTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\04_PersonelTakipUygulamasi.exe
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\04_PersonelTakipUygulamasi.pdb
+C:\Users\o_yaz\OneDrive\Eğitmenlik\Ayvansaray\2019\Rohan\ORTAK\03_WinForm\04_PersonelTakipUygulamasi\obj\Debug\04_PersonelTakipUygulamasi.csprojAssemblyReference.cache
